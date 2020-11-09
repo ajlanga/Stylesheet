@@ -1,0 +1,83 @@
+<style>
+
+/*font style*/
+h1 { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  }
+h3 { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 15.4px;
+  }
+p { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  }
+blockquote { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+  } 
+pre { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 400; 
+  line-height: 18.5714px;
+  }
+
+
+table, td, th {
+  border: 1px solid black;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+th {
+  text-align: center;
+  font-size: 13px;
+  padding: 3px;
+  background-color: #ededed;
+  font-style: bold;
+}
+.title {
+  background-color:#95c090;
+}
+
+
+td {
+  padding: 2px;
+  text-align: center;
+  font-size: 12px;
+}
+
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
+
+</style>
